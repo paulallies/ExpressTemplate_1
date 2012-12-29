@@ -11,8 +11,16 @@
     <code>
 </p>
 
+
 <p>
-    Update dependecies:
+    Goto project folder:
+    <code>
+    $ cd folder-name
+    </code>
+</p>
+
+<p>
+    Update dependencies:
     <code>
     $ npm install
     </code>
