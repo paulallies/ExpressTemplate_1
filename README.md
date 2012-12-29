@@ -5,17 +5,22 @@
 </p>
 
 <p>
-    Clone this repo and run the following command within the project folder
+    Clone this repo:
+    <code>
+    $ git clone git@github.com:paulallies/ExpressTemplate_1.git folder-name
+    <code>
 </p>
-
-<code>
-    $ npm install
-</code>
 
 <p>
-    To run the application:
+    Update dependecies:
+    <code>
+    $ npm install
+    </code>
 </p>
 
-<code>
+<p>
+    Run application:
+    <code>
     $ node app.js
-</code>
+    </code>
+</p>
