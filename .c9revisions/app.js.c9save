@@ -13,3 +13,5 @@
 {"ts":1356793006898,"patch":[[{"diffs":[[0,"ss.favicon());\n "],[1,"//"],[0," app.use(express"]],"start1":344,"start2":344,"length1":32,"length2":34}]],"length":949,"saved":false}
 {"ts":1356793065385,"patch":[[{"diffs":[[-1,"\n/**\n * Module dependencies.\n */\n\n"],[0,"var "]],"start1":0,"start2":0,"length1":38,"length2":4},{"diffs":[[0,"')\n    ,"],[1," "],[0,"routes ="]],"start1":30,"start2":30,"length1":16,"length2":17}]],"length":916,"saved":false}
 {"ts":1356796511767,"patch":[[{"diffs":[[0,"('path')"],[1," "],[0,";\n\nvar a"]],"start1":117,"start2":117,"length1":16,"length2":17}]],"length":917,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1356803760598,"patch":[[{"diffs":[[1,"#!/usr/bin/node\n\n"],[0,"var express "]],"start1":0,"start2":0,"length1":12,"length2":29}]],"length":934,"saved":false}
+{"ts":1356803779515,"patch":[[{"diffs":[[-1,"#!/usr/bin/node\n\n"],[0,"var "]],"start1":0,"start2":0,"length1":21,"length2":4}]],"length":917,"saved":false}

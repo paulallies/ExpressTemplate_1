@@ -4,3 +4,6 @@
 {"ts":1356792852878,"patch":[[{"diffs":[[0,"uire('./"],[-1,"routes/"],[0,"home')\n "]],"start1":20,"start2":20,"length1":23,"length2":16},{"diffs":[[0,"('./"],[-1,"routes/"],[0,"acco"]],"start1":62,"start2":62,"length1":15,"length2":8}]],"length":302,"saved":false}
 {"ts":1356792897172,"patch":[[{"diffs":[[0,"exports."],[-1,"index"],[1,"register"],[0," = funct"]],"start1":78,"start2":78,"length1":21,"length2":24}]],"length":305,"saved":false}
 {"ts":1356792905486,"patch":[[{"diffs":[[0,"register"],[1,"Routes"],[0," = funct"]],"start1":86,"start2":86,"length1":16,"length2":22}]],"length":311,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1356815965167,"patch":[[{"diffs":[[0,"equire('"],[-1,"./"],[0,"home')\n "]],"start1":18,"start2":18,"length1":18,"length2":16},{"diffs":[[0,"re('"],[-1,"./"],[0,"acco"]],"start1":58,"start2":58,"length1":10,"length2":8}]],"length":307,"saved":false}
+{"ts":1356815982138,"patch":[[{"diffs":[[0,"equire('"],[1,"./"],[0,"home')\n "]],"start1":18,"start2":18,"length1":16,"length2":18}]],"length":309,"saved":false}
+{"ts":1356815998249,"patch":[[{"diffs":[[0,"equire('"],[1,"./"],[0,"account'"]],"start1":56,"start2":56,"length1":16,"length2":18}]],"length":311,"saved":false}
