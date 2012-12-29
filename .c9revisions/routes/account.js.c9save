@@ -1,0 +1,2 @@
+{"ts":1356815793115,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1356815823334,"patch":[[{"diffs":[[1,"exports.logon = function(req, res){\r\n    res.render('account/logon', { \r\n        title: 'Logon'\r\n      \r\n    });\r\n};\r\n\r\nexports.register = function(req, res){\r\n    res.render('account/register', { \r\n        title: 'Register'\r\n      \r\n    });\r\n};"]],"start1":0,"start2":0,"length1":0,"length2":245}]],"length":245,"saved":false}
