@@ -9,9 +9,7 @@
 </p>
 
 <code>
-
     $ npm install
-    
 </code>
 
 <p>
@@ -19,7 +17,5 @@
 </p>
 
 <code>
-
     $ node app.js
-    
 </code>
