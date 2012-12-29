@@ -36,3 +36,4 @@
 {"ts":1356794600516,"patch":[[{"diffs":[[0,"/>\n</p>\n"],[1,"\n<p>\n    Clone this repo and run the following command within the project folder\n</p>\n\n<code>\n\n    $ npm  install\n\n</code>\n"]],"start1":179,"start2":179,"length1":8,"length2":131}]],"length":310,"saved":false}
 {"ts":1356794695435,"patch":[[{"diffs":[[0,"npm "],[-1," "],[0,"install\n"],[1,"    \n</code>\n\n<p>\n    To run the application:\n</p>\n\n<code>\n\n    $ node app.js\n    "],[0,"\n</c"]],"start1":288,"start2":288,"length1":17,"length2":98}]],"length":391,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1356796010369,"patch":[[{"diffs":[[0,"ial/"],[-1,"MovieList.png"],[1,"HomePage.PNG"],[0,"\" />"]],"start1":160,"start2":160,"length1":21,"length2":20}]],"length":390,"saved":false}
+{"ts":1356796254286,"patch":[[{"diffs":[[0,"ress"],[-1,"jsintro"],[1,"template_1"],[0,"/mas"]],"start1":136,"start2":136,"length1":15,"length2":18}]],"length":393,"saved":false}
