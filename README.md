@@ -1,7 +1,7 @@
 <p>This site is based on the asp.net mvc 3 template site found in visual studio
 
 <p>
-    <img src="https://raw.github.com/paulallies/expressjsintro/master/tutorial/MovieList.png" />
+    <img src="https://raw.github.com/paulallies/expressjsintro/master/tutorial/HomePage.PNG" />
 </p>
 
 <p>
